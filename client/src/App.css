@@ -1,0 +1,106 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+.App {
+  position: relative;
+  width: 90%;
+
+  margin: 0 auto;
+  margin-top: 100px;
+}
+
+.date-hidden {
+  display: none;
+}
+.date-visible,
+.table-visible {
+  display: flex;
+  justify-content: center;
+}
+
+.header {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  align-items: center;
+}
+
+.header-select {
+  flex: 1;
+  max-width: 300px;
+}
+
+#input-name {
+  flex: 1;
+  max-width: 300px;
+  min-height: 40px;
+  background-color: rgb(201, 196, 196);
+  border: none;
+  outline: none;
+  border-radius: 12px;
+  font-size: 16px;
+  padding: 0 8px;
+}
+
+.date-button {
+  background-color: #fff;
+  border: 1px solid gray;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+.submit-form {
+  display: flex;
+}
+
+button {
+  min-height: 40px;
+  align-items: center;
+  background-color: rgb(122, 172, 122);
+  border: none;
+  border-radius: 7px;
+  cursor: pointer;
+}
+
+.calendar {
+  display: flex;
+}
+
+.react-calendar {
+  width: 300px !important;
+}
+.shop-chart {
+  text-align: end;
+}
+.table-cost {
+  position: relative;
+  text-align: end;
+  right: 10%;
+  padding: 20px 0;
+}
+
+table {
+  width: 80%;
+  background-color: black;
+}
+th {
+  padding: 12px 0;
+  background-color: rgb(105, 102, 102);
+}
+tr {
+  text-transform: capitalize;
+  text-align: center;
+}
+tr:nth-child(odd) {
+  background-color: rgb(171, 164, 164);
+}
+tr:nth-child(even) {
+  background-color: #fff;
+}
+
+td {
+  padding: 12px 0;
+}

@@ -1,0 +1,1793 @@
+[
+  {
+    "day": "2020-12-28",
+    "fruits": {
+      "apple": 500,
+      "banana": 0,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2020-12-30",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2020-12-31",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-01",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-02",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-03",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-04",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-05",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-06",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-07",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-08",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-09",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-10",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-11",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-12",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-13",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-14",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-15",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-16",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-17",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-18",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-19",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-20",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-21",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-22",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-23",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-24",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-25",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-26",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-27",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-28",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-29",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-30",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-01-31",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-02-01",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-02-02",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-02-03",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-02-04",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-02-05",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-02-06",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-02-07",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-02-08",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-02-09",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-02-10",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-02-11",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-02-12",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-02-13",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-02-14",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-02-15",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-02-16",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-02-17",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-02-18",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-02-19",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-02-20",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-02-21",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-02-22",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-02-23",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-02-24",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-02-25",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-02-26",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-02-27",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-02-28",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-03-01",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-03-02",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-03-04",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-03-7",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-03-10",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-03-15",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-03-20",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-03-22",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-03-31",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-04-01",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-04-31",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-06-04",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-06-10",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-06-30",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-08-03",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-08-26",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-08-31",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-09-04",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-09-22",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-09-23",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-09-29",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-11-14",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-11-15",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-11-16",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-11-17",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-11-18",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-11-19",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-11-25",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-11-30",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-12-01",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-12-02",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-12-03",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-12-04",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-12-05",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-12-06",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-12-07",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-12-08",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-12-09",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-12-10",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-12-11",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-12-12",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-12-13",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-12-14",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-12-15",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-12-16",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-12-18",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-12-19",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-12-20",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-12-21",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  },
+  {
+    "day": "2021-12-22",
+    "fruits": {
+      "apple": 100,
+      "banana": 0,
+      "orange": 200,
+      "grapes": 100
+    },
+    "vegetables": {
+      "potatoes": 100,
+      "tomatoes": 0,
+      "onions": 200,
+      "ladyfinger": 100,
+      "cauliflower": 0
+    }
+  }
+]
