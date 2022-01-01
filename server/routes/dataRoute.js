@@ -9,7 +9,7 @@ const {
 
 router.get("/", getData);
 
-router.get("/type", getSelectedData);
+router.get("/all/:startDate/:endDate", getSelectedData);
 router.get("/type/:type/:startDate/:endDate", getSelectedSum);
 
 module.exports = router;

@@ -5,6 +5,7 @@ import Calendar from "react-calendar";
 import "react-calendar/dist/Calendar.css";
 import Select from "react-select";
 import HeaderChart from "./components/HeaderChart";
+import "./components/HeaderChart.css";
 
 function App() {
   const [totalCost, setTotalCost] = useState(0);
@@ -45,7 +46,7 @@ function App() {
   };
 
   const onStartDateChange = (d) => {
-    setStartDate(d);
+    setStartDate(new Date(d));
   };
 
   const onEndDateChange = (d) => {
@@ -316,9 +317,7 @@ function App() {
           </div>
         </div>
       </div>
-      <div className="shop-chart">
-        <HeaderChart />
-      </div>
+      <HeaderChart startDate={startDate} endDate={endDate} />
       <div className="table-cost">Total Price {totalCost}</div>
       <div className="table-visible">
         <table>

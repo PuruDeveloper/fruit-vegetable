@@ -19,7 +19,7 @@ exports.getData = async (req, res) => {
 
 exports.getSelectedData = async (req, res) => {
   try {
-    const { startDate, endDate } = req.body;
+    const { startDate, endDate } = req.params;
     const fvdata = await Datamodel.find({
       day: { $gte: new Date(startDate), $lt: new Date(endDate) },
     });

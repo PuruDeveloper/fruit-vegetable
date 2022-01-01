@@ -103,8 +103,9 @@ li {
 .squares-container {
   border: 1px solid rgb(73, 125, 13);
   border-radius: 20px;
+  overflow: scroll;
 }
-.squares-container > ul {
+/* .squares-container > ul {
   margin-block-start: 0em;
   margin-block-end: 0em;
-}
+} */

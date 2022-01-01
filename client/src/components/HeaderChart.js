@@ -1,16 +1,34 @@
 import React, { useEffect } from "react";
 import "./HeaderChart.css";
-import { format } from "date-fns";
+import { format, formatDistance, subDays } from "date-fns";
 
-function HeaderChart() {
-  const today = new Date(Date.now()).getTime();
-  let firstChartDay = today - 365 * 24 * 60 * 60 * 1000;
-  let obj = "";
-  let level = 0;
-  let j = 0;
+function HeaderChart({ startDate, endDate }) {
+  // const today = new Date(Date.now()).getTime();
+  // let firstChartDay = today - 365 * 24 * 60 * 60 * 1000;
+  // let firstChartDay = startDate.setHours(0, 0, 0, 0);
+  // let obj = "";
+  // let level = 0;
+  // let j = 0;
 
   useEffect(async () => {
-    await fetch("http://localhost:5000/api/")
+    let firstChartDay = startDate.setHours(0, 0, 0, 0);
+    let obj = "";
+    let level = 0;
+    let j = 0;
+    // console.log("New: ", new Date(Date.now()).setHours(0, 0, 0, 0));
+    let startDay = startDate.setHours(0, 0, 0, 0) / (24 * 60 * 60 * 1000);
+    let endDay = endDate.setHours(0, 0, 0, 0) / (24 * 60 * 60 * 1000);
+    const sd = format(startDate, "yyyy-MM-dd");
+    const ed = format(endDate, "yyyy-MM-dd");
+
+    let totalDays = endDay - startDay;
+    // console.log(sd, ed);
+    // console.log(
+    //   formatDistance(subDays(new Date(), startDate), endDate, {
+    //     addSuffix: true,
+    //   })
+    // );
+    await fetch(`http://localhost:5000/api/all/${sd}/${ed}`)
       .then((res) => {
         return res.json();
       })
@@ -19,13 +37,13 @@ function HeaderChart() {
         console.log(err);
       });
     const squares = document.querySelector(".squares");
-
+    squares.innerHTML = "";
     // obj.forEach((el) => {
     //   console.log(new Date(el.day).getTime());
     // });
     let newDay;
     j = 0;
-    for (var i = 0; i < 365; i++) {
+    for (var i = 0; i < totalDays; i++) {
       let totalCost = 0;
       if (i !== 0) {
         firstChartDay = firstChartDay + 24 * 60 * 60 * 1000;
@@ -83,7 +101,8 @@ function HeaderChart() {
       );
       level = 0;
     }
-  }, []);
+    // console.log(obj);
+  }, [startDate, endDate]);
   return (
     <div className="header-chart">
       <div>
