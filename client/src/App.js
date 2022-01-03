@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { format } from "date-fns";
 import "./App.css";
 import Calendar from "react-calendar";
@@ -8,6 +8,7 @@ import HeaderChart from "./components/HeaderChart";
 import "./components/HeaderChart.css";
 
 function App() {
+  const [obj, setObj] = useState([]);
   const [totalCost, setTotalCost] = useState(0);
   const todayDate = format(new Date(), "dd-MM-yyyy");
 
@@ -100,35 +101,18 @@ function App() {
   const findSelectedData = async (e) => {
     e.preventDefault();
 
-    async function fetchFruits() {
-      // let ts = 0;
-      const sd = format(startDate, "yyyy-MM-dd");
-      const ed = format(endDate, "yyyy-MM-dd");
-      await fetch(
-        `http://localhost:5000/api/type/${selectedOption.value}/${sd}/${ed}`
-      )
-        .then((res) => {
-          return res.json();
-        })
-        .then((data) => {
-          setFruits([...data.data.fvdata]);
+    let startDay = startDate.setHours(0, 0, 0, 0);
+    let endDay = endDate.setHours(0, 0, 0, 0);
 
-          setUpdated(!updated);
-        })
-        .catch((err) => {
-          console.log(err);
-        });
-      fruits.forEach((el) => {
-        apple = apple + el.fruits.apple;
-      });
-      fruits.forEach((el) => {
-        banana = banana + el.fruits.banana;
-      });
-      fruits.forEach((el) => {
-        orange = orange + el.fruits.orange;
-      });
-      fruits.forEach((el) => {
-        grapes = grapes + el.fruits.grapes;
+    function getFruits() {
+      obj.forEach((el) => {
+        let mongoDay = new Date(el.day).setHours(0, 0, 0, 0);
+        if (mongoDay >= startDay && mongoDay <= endDay) {
+          apple = apple + el.fruits.apple;
+          banana = banana + el.fruits.banana;
+          orange = orange + el.fruits.orange;
+          grapes = grapes + el.fruits.grapes;
+        }
       });
       if (apple !== 0) {
         fruitObj.push({
@@ -137,7 +121,6 @@ function App() {
           quantity: Math.ceil(apple / 100),
           price: apple,
         });
-        // ts = ts + apple;
       }
       if (orange !== 0) {
         fruitObj.push({
@@ -146,8 +129,6 @@ function App() {
           quantity: Math.ceil(orange / 50),
           price: orange,
         });
-
-        // ts = ts + orange;
       }
       if (banana !== 0) {
         fruitObj.push({
@@ -156,7 +137,6 @@ function App() {
           quantity: Math.ceil(banana / 20),
           price: banana,
         });
-        // ts = ts + banana;
       }
       if (grapes !== 0) {
         fruitObj.push({
@@ -165,44 +145,20 @@ function App() {
           quantity: Math.ceil(grapes / 40),
           price: grapes,
         });
-        // ts = ts + grapes;
       }
-      // setTotalCost(ts);
     }
 
-    async function fetchVegetables() {
-      // let ts = 0;
-      const sd = format(startDate, "yyyy-MM-dd");
-      const ed = format(endDate, "yyyy-MM-dd");
-      await fetch(
-        `http://localhost:5000/api/type/${selectedOption.value}/${sd}/${ed}`
-      )
-        .then((res) => {
-          return res.json();
-        })
-        .then((data) => {
-          setVegetables([...data.data.fvdata]);
-          setUpdated(!updated);
-        })
-        .catch((err) => {
-          console.log(err);
-        });
-      vegetables.forEach((el) => {
-        cauliflower = cauliflower + el.vegetables.cauliflower;
+    function getVegetable() {
+      obj.forEach((el) => {
+        let mongoDay = new Date(el.day).setHours(0, 0, 0, 0);
+        if (mongoDay >= startDay && mongoDay <= endDay) {
+          cauliflower = cauliflower + el.vegetables.cauliflower;
+          ladyfinger = ladyfinger + el.vegetables.ladyfinger;
+          onions = onions + el.vegetables.onions;
+          potatoes = potatoes + el.vegetables.potatoes;
+          tomatoes = tomatoes + el.vegetables.tomatoes;
+        }
       });
-      vegetables.forEach((el) => {
-        ladyfinger = ladyfinger + el.vegetables.ladyfinger;
-      });
-      vegetables.forEach((el) => {
-        onions = onions + el.vegetables.onions;
-      });
-      vegetables.forEach((el) => {
-        potatoes = potatoes + el.vegetables.potatoes;
-      });
-      vegetables.forEach((el) => {
-        tomatoes = tomatoes + el.vegetables.tomatoes;
-      });
-
       if (cauliflower !== 0) {
         vegetableObj.push({
           name: "cauliflower",
@@ -210,7 +166,6 @@ function App() {
           quantity: Math.ceil(cauliflower / 40),
           price: cauliflower,
         });
-        // ts = ts + cauliflower;
       }
       if (ladyfinger !== 0) {
         vegetableObj.push({
@@ -219,7 +174,6 @@ function App() {
           quantity: Math.ceil(ladyfinger / 50),
           price: ladyfinger,
         });
-        // ts = ts + ladyfinger;
       }
       if (onions !== 0) {
         vegetableObj.push({
@@ -228,7 +182,6 @@ function App() {
           quantity: Math.ceil(onions / 50),
           price: onions,
         });
-        // ts = ts + onions;
       }
       if (potatoes !== 0) {
         vegetableObj.push({
@@ -237,7 +190,6 @@ function App() {
           quantity: Math.ceil(potatoes / 100),
           price: potatoes,
         });
-        // ts = ts + potatoes;
       }
       if (tomatoes !== 0) {
         vegetableObj.push({
@@ -246,25 +198,33 @@ function App() {
           quantity: Math.ceil(tomatoes / 30),
           price: tomatoes,
         });
-        // ts = ts + tomatoes;
       }
-      // setTotalCost(ts);
     }
 
     if (selectedOption.value === "fruits") {
-      await fetchFruits();
-      // console.log(totalCost);
-      // console.log(fruitObj);
+      getFruits();
       makeFruitsTable();
     } else if (selectedOption.value === "vegetables") {
-      await fetchVegetables();
-      // console.log(totalCost);
-      // console.log(vegetableObj);
+      getVegetable();
       makeVegetablesTable();
     } else {
       alert("No choice selected. You must select a choice");
     }
   };
+
+  useEffect(() => {
+    async function fetchData() {
+      await fetch(`http://localhost:5000/api`)
+        .then((res) => {
+          return res.json();
+        })
+        .then((data) => setObj([...data.data.fvdata]))
+        .catch((err) => {
+          console.log(err);
+        });
+    }
+    fetchData();
+  }, []);
 
   return (
     <div className="App">
@@ -317,7 +277,7 @@ function App() {
           </div>
         </div>
       </div>
-      <HeaderChart startDate={startDate} endDate={endDate} />
+      <HeaderChart graphObject={obj} startDate={startDate} endDate={endDate} />
       <div className="table-cost">Total Price {totalCost}</div>
       <div className="table-visible">
         <table>

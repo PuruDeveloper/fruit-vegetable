@@ -1,8 +1,8 @@
 import React, { useEffect } from "react";
 import "./HeaderChart.css";
-import { format, formatDistance, subDays } from "date-fns";
+import { format } from "date-fns";
 
-function HeaderChart({ startDate, endDate }) {
+function HeaderChart({ graphObject, startDate, endDate }) {
   // const today = new Date(Date.now()).getTime();
   // let firstChartDay = today - 365 * 24 * 60 * 60 * 1000;
   // let firstChartDay = startDate.setHours(0, 0, 0, 0);
@@ -41,9 +41,11 @@ function HeaderChart({ startDate, endDate }) {
     // obj.forEach((el) => {
     //   console.log(new Date(el.day).getTime());
     // });
-    let newDay;
+
+    //Iterating through the object and assigning levels to the squares.
     j = 0;
-    for (var i = 0; i < totalDays; i++) {
+    let newDay;
+    for (let i = 0; i < totalDays; i++) {
       let totalCost = 0;
       if (i !== 0) {
         firstChartDay = firstChartDay + 24 * 60 * 60 * 1000;
